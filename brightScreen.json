@@ -9,6 +9,7 @@
       "executionPrefix": "node",
       "fileExtention": "js",
       "replacementSubstring": "USER_CODE",
+      "starterFileLocation": "lessonOne/lessonOneStarter.js",
       "documentationUrl": "https://brightScreen.io/courses/Test-Lesson/lesson-One/"
     },
     {
